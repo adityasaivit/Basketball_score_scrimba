@@ -54,4 +54,5 @@ function reset(){
     document.querySelector(".score-two").innerText=0;
     first=0
     second=0
+    document.querySelector(".lead").innerText="Lead:"
 }
