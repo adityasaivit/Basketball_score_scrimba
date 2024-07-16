@@ -95,3 +95,15 @@ body{
     color:purple;
     background-color:black;
 }
+.outer-outer{
+    display:flex;
+    flex-direction:column;
+    height:100%;
+}
+
+.lead
+{
+    color:purple;
+    text-align:center;
+    font-size:3rem;
+}
